@@ -10,7 +10,7 @@ certbot certonly --standalone --http-01-port 8080 -d meudominio.com.br
 - Rocky Linux 9.5 (Aplicação e Banco de dados)
 - OpenSSL 3.0.2
 - Java 11
-- -PostgreSQL versão 14.9 (Banco de dados separado)
+- PostgreSQL versão 14.9 (Banco de dados separado)
 
 ### Habilitando o SSL
 
